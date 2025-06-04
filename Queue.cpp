@@ -74,7 +74,7 @@ int Queue::Rear(){
     }
     else
     {
-        cout<<"front element : "<<arr[this->rear]<<endl;
+        cout<<"Rare element : "<<arr[this->rear]<<endl;
         return arr[this->rear];
     }
 }
